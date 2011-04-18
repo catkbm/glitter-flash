@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, glitterflash!</string>
+    <string name="app_name">GlitterFlash</string>
+    <string name="color">all_white</string>
+    <color name="all_white">#FFFFFF</color>
+    <color name="all_black">#000000</color>
+</resources>
